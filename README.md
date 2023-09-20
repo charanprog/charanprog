@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @charanprog
+- 👋 Hi, I’m @CHARAN
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning C,JAVA,PYTHON,DSA
-- 💞️ I’m looking to collaborate on INTERS
+- 💞️ I’m looking to collaborate on INTERNS
 - 📫 How to reach me CHARAN160318@GMAIL.COM
 
 <!---
